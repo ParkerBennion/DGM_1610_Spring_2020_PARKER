@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4103efa-d6ac-422c-842b-67e152785397" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.variables/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.variables/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.variables/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.variables/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.variables/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.variables/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Variables_Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Variables_Scene.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +16,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Class/Variables_02.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/Variables.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Class/mobility.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Class/Variables_02.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -22,6 +26,7 @@
         <option value="$PROJECT_DIR$/Assets/Class/Variables.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/Variables_02.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/Template.cs" />
+        <option value="$PROJECT_DIR$/Assets/Class/mobility.cs" />
       </list>
     </option>
   </component>
@@ -83,6 +88,7 @@
       <workItem from="1579747519339" duration="1672000" />
       <workItem from="1579750309535" duration="3798000" />
       <workItem from="1579812716966" duration="1284000" />
+      <workItem from="1579818020943" duration="2238000" />
     </task>
     <servers />
   </component>
@@ -105,6 +111,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="-1229" y="609" key="RiderGenerateDialog" timestamp="1579820274431">
+      <screen x="-1920" y="345" width="1920" height="1080" />
+    </state>
+    <state x="-1229" y="609" key="RiderGenerateDialog/0.0.2560.1440/-1920.345.1920.1080@-1920.345.1920.1080" timestamp="1579820274431" />
     <state x="277" y="76" key="SettingsEditor" timestamp="1579813175366">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
