@@ -15,10 +15,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Class/Variables.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/Variables_03.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Class/mobility.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/Variables_02.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Class/Variables.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Class/mobility.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -26,8 +26,8 @@
         <option value="$PROJECT_DIR$/Assets/Class/Variables.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/Variables_02.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/Template.cs" />
-        <option value="$PROJECT_DIR$/Assets/Class/mobility.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/Variables_03.cs" />
+        <option value="$PROJECT_DIR$/Assets/Class/mobility.cs" />
       </list>
     </option>
   </component>
@@ -91,6 +91,7 @@
       <workItem from="1579812716966" duration="1284000" />
       <workItem from="1579818020943" duration="2238000" />
       <workItem from="1580005835781" duration="8654000" />
+      <workItem from="1580085594535" duration="2033000" />
     </task>
     <servers />
   </component>

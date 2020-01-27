@@ -9,19 +9,6 @@ public class Variables_03 : MonoBehaviour
 
     void OnMouseDown()
     {
-        Gooseberry();
     }
-
-    public void Gooseberry()
-    {
-        frutibowl = (apple + orange + blueberry);
-        
-    }
-
-    public void OnMouseUp()
-    {
-        frutibowl = apple + orange + blueberry;
-        public 
-             string = frutibowl;
-    }
+    
 }
