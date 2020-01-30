@@ -1,15 +1,21 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using JetBrains.Annotations;
 using UnityEngine;
 
 public class mobility : MonoBehaviour
 {
-   public float speed, verticalInput;
+   public float speed, verticalInput, horizontalInput;
 
    void Update()
    {
-      transform.Translate(-.2f,0,0);
+      verticalInput = Input.GetAxis("Vertical");
+      horizontalInput = Input.GetAxis("Horizontal");
+      transform.Translate(Vector3.forward*speed*Time.deltaTime*verticalInput);
+      transform.Translate(Vector3.up*speed*Time.deltaTime*horizontalInput);
+      transform.Translate(Vector3.left*speed*Time.deltaTime*horizontalInput);
+      //add translate scripts
    }
 
    private void OnCollisionEnter(Collision other)
