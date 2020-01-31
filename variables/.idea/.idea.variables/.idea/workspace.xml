@@ -17,7 +17,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Class/Variables.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/Variables_03.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Class/CameraChange.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/mobility.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Class/SelfAware.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/Variables_02.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -27,6 +29,9 @@
         <option value="$PROJECT_DIR$/Assets/Class/Variables_02.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/Template.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/Variables_03.cs" />
+        <option value="$PROJECT_DIR$/Assets/Class/SelfAware.cs" />
+        <option value="$PROJECT_DIR$/Assets/Class/CameraChage.cs" />
+        <option value="$PROJECT_DIR$/Assets/Class/CameraChange.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/mobility.cs" />
       </list>
     </option>
@@ -95,6 +100,7 @@
       <workItem from="1580166308297" duration="2171000" />
       <workItem from="1580339328886" duration="3054000" />
       <workItem from="1580450422849" duration="1415000" />
+      <workItem from="1580507091978" duration="1954000" />
     </task>
     <servers />
   </component>

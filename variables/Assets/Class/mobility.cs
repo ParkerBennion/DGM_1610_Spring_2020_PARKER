@@ -9,7 +9,7 @@ using Object = UnityEngine.Object;
 
 public class mobility : MonoBehaviour
 {
-   public float speed, verticalInput, horizontalInput, jumpspeed;
+   public float speed, verticalInput, horizontalInput, jumpsdis = 3f;
 
    void Update()
    {
@@ -21,27 +21,11 @@ public class mobility : MonoBehaviour
       //add translate scripts
       //fixed camera
       //fixed orientation
-   }
-
-   private void OnCollisionEnter(Collision other)
-   {
-      if (other.gameObject.CompareTag("Floor"))
+      if (Input.GetKey(KeyCode.X)&& CompareTag("Floor"))
       {
-         Debug.Log("ouch!!!!");
+         transform.Translate(Vector3.up*jumpsdis*Time.deltaTime);
       }
-      else if (other.gameObject.CompareTag("Object"))
-      {
-         Debug.Log("I've been stopped");
-      }
-      else
-      {
-         Debug.Log("Its quiet");
-      }
-   }
-
-   private void OnTriggerEnter(Collider other)
-   {
-      Debug.Log("You are in the dangerzone!");
+//added conditional jump script but the script is based on wrong condition.
    }
    
 }
