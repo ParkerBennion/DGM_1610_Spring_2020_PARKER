@@ -16,12 +16,13 @@ public class mobility : MonoBehaviour
       verticalInput = Input.GetAxis("Vertical");
       horizontalInput = Input.GetAxis("Horizontal");
       transform.Translate(Vector3.forward*speed*Time.deltaTime*horizontalInput);
+      
       //transform.Translate(Vector3.up*jumpspeed*Time.deltaTime*OnCollisionEnter);
+      
       transform.Translate(Vector3.left*speed*Time.deltaTime*verticalInput);
-      //add translate scripts
-      //fixed camera
-      //fixed orientation
-      if (Input.GetKey(KeyCode.X)&& CompareTag("Floor"))
+      
+      
+      if (Input.GetKey(KeyCode.X)&& CharacterDataBank.ground = true)
       {
          transform.Translate(Vector3.up*jumpsdis*Time.deltaTime);
       }
