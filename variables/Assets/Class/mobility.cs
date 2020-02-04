@@ -22,9 +22,10 @@ public class mobility : MonoBehaviour
       transform.Translate(Vector3.left*speed*Time.deltaTime*verticalInput);
       
       
-      if (Input.GetKey(KeyCode.X)&& CharacterDataBank.ground = true)
+     if (Input.GetKey(KeyCode.X)&& JumpManager.jumper= true)
       {
          transform.Translate(Vector3.up*jumpsdis*Time.deltaTime);
+         JumpManager.jumper = false;
       }
 //added conditional jump script but the script is based on wrong condition.
    }

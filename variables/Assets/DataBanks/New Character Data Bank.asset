@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 494c8a5ee2d5ee34494d57e42b7c658e, type: 3}
   m_Name: New Character Data Bank
   m_EditorClassIdentifier: 
-  ground: 1
+  ground: 0

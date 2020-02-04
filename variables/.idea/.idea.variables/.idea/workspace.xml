@@ -4,6 +4,7 @@
     <list default="true" id="c4103efa-d6ac-422c-842b-67e152785397" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.variables/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.variables/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.variables/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.variables/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Class/BoolTrigger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Class/BoolTrigger.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Class/mobility.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Class/mobility.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,10 +16,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Class/CameraChange.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Class/FloorBool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Class/Pickup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Class/JumpManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/Variables.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/Variables_03.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Class/CameraChange.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../proj_test/Assets/Class/Data scripts/GameArtData.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Class/ScoreManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../Romrells Stuff/1610Fall2019/ProjectOne/Assets/Scripts/IntData.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/BoolTrigger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/mobility.cs" root0="FORCE_HIGHLIGHTING" />
@@ -39,6 +44,11 @@
         <option value="$PROJECT_DIR$/Assets/Class/CameraChange.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/CharacterDataBank.cs" />
         <option value="$PROJECT_DIR$/Assets/BoolTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Class/Pickup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Class/BoolTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Class/ScoreManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Class/FloorBool.cs" />
+        <option value="$PROJECT_DIR$/Assets/Class/JumpManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/mobility.cs" />
       </list>
     </option>
@@ -109,6 +119,7 @@
       <workItem from="1580450422849" duration="1415000" />
       <workItem from="1580507091978" duration="1954000" />
       <workItem from="1580589684934" duration="3170000" />
+      <workItem from="1580796506598" duration="3969000" />
     </task>
     <servers />
   </component>

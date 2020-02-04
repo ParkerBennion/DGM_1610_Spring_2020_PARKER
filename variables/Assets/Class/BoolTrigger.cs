@@ -7,6 +7,6 @@ public class BoolTrigger : MonoBehaviour
 {
     private void OnTriggerEnter(Collider other)
     {
-        CharacterDataBank.ground = false;
+        //CharacterDataBank.ground = false;
     }
 }
