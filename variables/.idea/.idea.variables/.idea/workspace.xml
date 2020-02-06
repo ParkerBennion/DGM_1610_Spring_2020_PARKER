@@ -16,21 +16,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Class/CameraChange.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Class/Variables_03.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Class/JumpManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Class/Variables_02.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Class/BoolTrigger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Class/SelfAware.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/FloorBool.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/Pickup.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Class/JumpManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/Variables.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Class/Variables_03.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../proj_test/Assets/Class/Data scripts/GameArtData.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Class/ScoreManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../Romrells Stuff/1610Fall2019/ProjectOne/Assets/Scripts/IntData.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Class/BoolTrigger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/mobility.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Class/SelfAware.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Class/CharacterDataBank.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Class/Variables_02.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../proj_test/Assets/Class/Data scripts/FloatData.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Class/ScoreManager.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -39,7 +34,6 @@
         <option value="$PROJECT_DIR$/Assets/Class/Variables_02.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/Template.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/Variables_03.cs" />
-        <option value="$PROJECT_DIR$/Assets/Class/SelfAware.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/CameraChage.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/CameraChange.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/CharacterDataBank.cs" />
@@ -49,6 +43,7 @@
         <option value="$PROJECT_DIR$/Assets/Class/ScoreManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/FloorBool.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/JumpManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Class/SelfAware.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/mobility.cs" />
       </list>
     </option>
@@ -120,6 +115,7 @@
       <workItem from="1580507091978" duration="1954000" />
       <workItem from="1580589684934" duration="3170000" />
       <workItem from="1580796506598" duration="3969000" />
+      <workItem from="1580944654502" duration="4641000" />
     </task>
     <servers />
   </component>

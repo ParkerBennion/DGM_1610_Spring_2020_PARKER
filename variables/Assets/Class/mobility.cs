@@ -14,15 +14,14 @@ public class mobility : MonoBehaviour
    void Update()
    {
       verticalInput = Input.GetAxis("Vertical");
-      horizontalInput = Input.GetAxis("Horizontal");
       transform.Translate(Vector3.forward*speed*Time.deltaTime*horizontalInput);
+      //vertical movement
       
-      //transform.Translate(Vector3.up*jumpspeed*Time.deltaTime*OnCollisionEnter);
-      
+      horizontalInput = Input.GetAxis("Horizontal");
       transform.Translate(Vector3.left*speed*Time.deltaTime*verticalInput);
+      //horizontal movement
       
-      
-     if (Input.GetKey(KeyCode.X)&& JumpManager.jumper= true)
+     if (Input.GetKeyDown(KeyCode.X) && (JumpManager.jumper = true))
       {
          transform.Translate(Vector3.up*jumpsdis*Time.deltaTime);
          JumpManager.jumper = false;

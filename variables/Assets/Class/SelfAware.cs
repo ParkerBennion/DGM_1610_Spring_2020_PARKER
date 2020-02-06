@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class SelfAware : MonoBehaviour
 {
-    private void OnCollisionEnter(Collision other)
+    /*private void OnCollisionEnter(Collision other)
     {
         if (other.gameObject.CompareTag("Floor"))
         {
@@ -23,5 +23,5 @@ public class SelfAware : MonoBehaviour
     private void OnTriggerEnter(Collider other)
     {
         Debug.Log("You are in the dangerzone!");
-    }
+    }*/
 }
