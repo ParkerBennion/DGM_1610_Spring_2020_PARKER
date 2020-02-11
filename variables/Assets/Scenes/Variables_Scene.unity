@@ -1170,6 +1170,8 @@ MonoBehaviour:
   verticalInput: 1
   horizontalInput: 1
   jumpsdis: 6
+  rubberBulletPrefab: {fileID: 6515030821368845482, guid: 4f57e03214a395d49a5e6b295bb69437,
+    type: 3}
 --- !u!135 &1682416080
 SphereCollider:
   m_ObjectHideFlags: 0
