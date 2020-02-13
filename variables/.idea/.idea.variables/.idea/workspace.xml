@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4103efa-d6ac-422c-842b-67e152785397" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.variables/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.variables/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.variables/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.variables/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Class/Look.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Class/Look.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Class/Velocity.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Class/Velocity.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Class/mobility.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Class/mobility.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Bullet.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Bullet.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Bullet.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Bullet.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/thunderhawk.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/thunderhawk.fbx.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,6 +131,7 @@
       <workItem from="1581376290809" duration="3645000" />
       <workItem from="1581548751841" duration="4401000" />
       <workItem from="1581571112720" duration="5575000" />
+      <workItem from="1581615277056" duration="1574000" />
     </task>
     <servers />
   </component>
