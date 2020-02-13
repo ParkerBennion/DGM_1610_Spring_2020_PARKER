@@ -8,11 +8,12 @@ public class Look : MonoBehaviour
     public float speed = 200f;
     public Vector3 position;
     public Transform Body;
-    public Transform camera;
+    public Transform viewingBox;
 
     private void Start()
     {
         Cursor.lockState = CursorLockMode.Locked;
+        //Cursor.SetCursor(Texture2D.blackTexture, Vector2.one, CursorMode.Auto);
         //brackeys code ^^^
     }
 
@@ -22,8 +23,7 @@ public class Look : MonoBehaviour
         position.y = speed * Input.GetAxis("Mouse Y") * Time.deltaTime;
 
         Body.Rotate(Vector3.up * position.x);
-        camera.Rotate(Vector3.left * position.y);
+        viewingBox.Rotate(Vector3.left * position.y);
         
-
     }
 }

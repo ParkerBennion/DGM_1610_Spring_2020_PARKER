@@ -6,12 +6,14 @@ using UnityEngine;
 using UnityEngine.Animations;
 using UnityEngine.EventSystems;
 using UnityEngine.UIElements;
+using Cursor = UnityEngine.Cursor;
 using Object = UnityEngine.Object;
 
 public class mobility : MonoBehaviour
 {
    public float speed = 10f, verticalInput, horizontalInput, jumpsdis = 3f;
-   public GameObject rubberBulletPrefab;
+  // public GameObject rubberBulletPrefab;
+   //public Camera shootCam;
 
    void Update()
    {
@@ -31,11 +33,11 @@ public class mobility : MonoBehaviour
       }
      // jump script
 
-     if (Input.GetKeyDown(KeyCode.LeftShift))
+    /* if (Input.GetKeyDown(KeyCode.Mouse0))
      {
-         Instantiate(rubberBulletPrefab, transform.position, rubberBulletPrefab.transform.rotation);
+         Instantiate(rubberBulletPrefab, shootCam.transform.position, rubberBulletPrefab.transform.rotation);
      }
-     
+     */
    }
    
 }
