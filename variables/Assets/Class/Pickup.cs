@@ -5,6 +5,7 @@ using UnityEngine;
 
 public class Pickup : MonoBehaviour
 {
+ public int nameTag, pickupType;
  public int pointsToAdd;
 
  private void OnTriggerEnter(Collider other)

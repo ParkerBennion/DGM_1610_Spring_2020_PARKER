@@ -10,13 +10,16 @@
           <e p="BoolTrigger.cs" t="Include" />
           <e p="CameraChange.cs" t="Include" />
           <e p="CharacterDataBank.cs" t="Include" />
+          <e p="EnemyMove.cs" t="Include" />
           <e p="FloorBool.cs" t="Include" />
+          <e p="HelthPickUp.cs" t="Include" />
           <e p="JumpManager.cs" t="Include" />
           <e p="look.cs" t="Include" />
           <e p="mobility.cs" t="Include" />
           <e p="Pickup.cs" t="Include" />
           <e p="ScoreManager.cs" t="Include" />
           <e p="SelfAware.cs" t="Include" />
+          <e p="SpawnManager.cs" t="Include" />
           <e p="Variables.cs" t="Include" />
           <e p="Variables_02.cs" t="Include" />
           <e p="Variables_03.cs" t="Include" />
