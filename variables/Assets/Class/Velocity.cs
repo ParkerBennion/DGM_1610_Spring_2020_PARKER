@@ -8,7 +8,8 @@ public class Velocity : MonoBehaviour
     public int goodbye = 3;
     void Update()
     {
-        transform.Translate(  -transform.right * Time.deltaTime * speed);
+        transform.Translate(  Vector3.left * Time.deltaTime * speed);
+        //transform.rotation(Cursor);
         Destroy(gameObject, goodbye);
     }
 }

@@ -17,11 +17,12 @@ public class mobility : MonoBehaviour
 
    void Update()
    {
-      verticalInput = Input.GetAxis("Vertical");
-      transform.Translate(Vector3.forward*speed*Time.deltaTime*horizontalInput);
+    
+    horizontalInput = Input.GetAxis("Horizontal");
+    transform.Translate(Vector3.forward*speed*Time.deltaTime*horizontalInput);
       //vertical movement
       
-      horizontalInput = Input.GetAxis("Horizontal");
+      verticalInput = Input.GetAxis("Vertical");
       transform.Translate(Vector3.left*speed*Time.deltaTime*verticalInput);
       //horizontal movement
       

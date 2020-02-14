@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.Animations;
 using UnityEngine.UIElements;
 using Cursor = UnityEngine.Cursor;
 
@@ -24,6 +25,7 @@ public class Look : MonoBehaviour
 
         Body.Rotate(Vector3.up * position.x);
         viewingBox.Rotate(Vector3.left * position.y);
-        
+
+
     }
 }
