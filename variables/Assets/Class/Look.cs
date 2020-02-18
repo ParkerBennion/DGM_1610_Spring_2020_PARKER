@@ -14,8 +14,6 @@ public class Look : MonoBehaviour
     private void Start()
     {
         Cursor.lockState = CursorLockMode.Locked;
-        //Cursor.SetCursor(Texture2D.blackTexture, Vector2.one, CursorMode.Auto);
-        //brackeys code ^^^
     }
 
     void Update()

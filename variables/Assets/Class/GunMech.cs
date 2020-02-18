@@ -8,21 +8,20 @@ public class GunMech : MonoBehaviour
 {
     public GameObject rubberBulletPrefab;
     public GameObject mag;
-    public GameObject gunCam;
 
     public Quaternion trajectory;
 
     private void Start()
     {
-        trajectory = Quaternion.identity;
     }
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Mouse0))
+        trajectory = transform.rotation;
+        if (Input.GetKey(KeyCode.Mouse0))
         {
             Instantiate(rubberBulletPrefab, mag.transform.position, trajectory);
-            Debug.Log(gunCam.transform.rotation);
         }
+        Debug.Log(trajectory);
     }
 }

@@ -12,6 +12,9 @@
           <e p="CharacterDataBank.cs" t="Include" />
           <e p="EnemyMove.cs" t="Include" />
           <e p="FloorBool.cs" t="Include" />
+          <e p="FpsTesterScripts" t="Include">
+            <e p="FpsAim.cs" t="Include" />
+          </e>
           <e p="GunMech.cs" t="Include" />
           <e p="HelthPickUp.cs" t="Include" />
           <e p="JumpManager.cs" t="Include" />
