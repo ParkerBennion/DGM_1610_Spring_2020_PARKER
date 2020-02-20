@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\parke\.Rider2019.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\parke\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_variables.-12889997.00" t="ExcludeRecursive" />
-    <e p="C:\Users\parke\Desktop\git kraken\UVU-1610\DGM 2020\DGM_1610_Spring_2020_PARKER\variables" t="IncludeRecursive">
+    <e p="C:\Users\parke\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_variables.-633841336.00" t="ExcludeRecursive" />
+    <e p="C:\Users\parke\Desktop\Repo DGM 2020\DGM_1610_Spring_2020_PARKER\variables" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Class" t="Include">
@@ -12,6 +12,7 @@
           <e p="CharacterDataBank.cs" t="Include" />
           <e p="EnemyMove.cs" t="Include" />
           <e p="FloorBool.cs" t="Include" />
+          <e p="Follow.cs" t="Include" />
           <e p="FpsTesterScripts" t="Include">
             <e p="FpsAim.cs" t="Include" />
           </e>
