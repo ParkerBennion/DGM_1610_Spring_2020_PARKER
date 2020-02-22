@@ -12,13 +12,9 @@ using Object = UnityEngine.Object;
 public class mobility : MonoBehaviour
 {
    public float speed = 10f, verticalInput, horizontalInput, jumpsdis = 3f;
-  // public GameObject rubberBulletPrefab;
-   //public Camera shootCam;
-
    void Update()
    {
-    
-    horizontalInput = Input.GetAxis("Horizontal");
+       horizontalInput = Input.GetAxis("Horizontal");
     transform.Translate(Vector3.forward*speed*Time.deltaTime*horizontalInput);
       //vertical movement
       

@@ -11,17 +11,13 @@ public class GunMech : MonoBehaviour
 
     public Quaternion trajectory;
 
-    private void Start()
-    {
-    }
-
     void Update()
     {
-        trajectory = transform.rotation;
+        trajectory = transform.rotation; //records data in qaternion of the objects rotation and updates every frame.
         if (Input.GetKey(KeyCode.Mouse0))
         {
-            Instantiate(rubberBulletPrefab, mag.transform.position, trajectory);
+            Instantiate(rubberBulletPrefab, mag.transform.position, trajectory); // on left click spawn (insert variable X) at (insert variable Y) with rotation matching "trajectory"
         }
-        Debug.Log(trajectory);
+        Debug.Log(trajectory); //display current trajectory
     }
 }

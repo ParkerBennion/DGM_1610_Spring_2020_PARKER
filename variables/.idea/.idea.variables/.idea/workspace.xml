@@ -4,10 +4,15 @@
     <list default="true" id="c4103efa-d6ac-422c-842b-67e152785397" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.variables/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.variables/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.variables/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.variables/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Class/BoolTrigger.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Class/BoolTrigger.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Class/EnemyMove.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Class/EnemyMove.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Class/Follow.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Class/Follow.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Class/GunMech.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Class/GunMech.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Class/HelthPickUp.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Class/HelthPickUp.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Class/Look.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Class/Look.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Class/Velocity.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Class/Velocity.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Variables_Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Variables_Scene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Class/mobility.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Class/mobility.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,24 +23,24 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Class/EnemyMove.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Class/JumpManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Class/CameraChange.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Class/FpsTesterScripts/FpsAim.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Class/FloorBool.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/GunMech.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Class/SelfAware.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/Pickup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Class/JumpManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Class/HelthPickUp.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/Variables.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Class/Look.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Class/Velocity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Class/Follow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Class/Variables_03.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Class/ScoreManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/SpawnManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/mobility.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Class/ScoreManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Class/Variables_03.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Class/BoolTrigger.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Class/Variables_02.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Class/FloorBool.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Class/Look.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Class/SelfAware.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/CharacterDataBank.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Class/HelthPickUp.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Class/Follow.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Class/Velocity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Class/Variables_02.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -53,17 +58,17 @@
         <option value="$PROJECT_DIR$/Assets/Class/JumpManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/SelfAware.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/look.cs" />
-        <option value="$PROJECT_DIR$/Assets/Class/HelthPickUp.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/Pickup.cs" />
-        <option value="$PROJECT_DIR$/Assets/Class/EnemyMove.cs" />
-        <option value="$PROJECT_DIR$/Assets/Class/mobility.cs" />
-        <option value="$PROJECT_DIR$/Assets/Class/Look.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/FpsTesterScripts/FpsAim.cs" />
-        <option value="$PROJECT_DIR$/Assets/Class/GunMech.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/Velocity.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/BoolTrigger.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/SpawnManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Class/EnemyMove.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/Follow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Class/GunMech.cs" />
+        <option value="$PROJECT_DIR$/Assets/Class/HelthPickUp.cs" />
+        <option value="$PROJECT_DIR$/Assets/Class/Look.cs" />
+        <option value="$PROJECT_DIR$/Assets/Class/mobility.cs" />
       </list>
     </option>
   </component>
@@ -145,6 +150,7 @@
       <workItem from="1581715457191" duration="2127000" />
       <workItem from="1582060543120" duration="4062000" />
       <workItem from="1582154036662" duration="3255000" />
+      <workItem from="1582325514813" duration="3094000" />
     </task>
     <servers />
   </component>
