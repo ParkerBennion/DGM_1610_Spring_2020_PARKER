@@ -14,4 +14,5 @@ public class Follow : MonoBehaviour
         transform.LookAt(target); //rotates to look at vector 3 variable target.
         transform.Translate(Vector3.forward * moveSpeed * Time.deltaTime); //moves forward constantly.
     }
+    
 }
