@@ -26,6 +26,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Class/JumpManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/FpsTesterScripts/FpsAim.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/GunMech.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Class/EnemyHealth.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/SelfAware.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/Pickup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/Variables.cs" root0="FORCE_HIGHLIGHTING" />
@@ -42,6 +43,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Class/CameraChange.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/Follow.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/Velocity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Class/Bullet.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -71,6 +73,8 @@
         <option value="$PROJECT_DIR$/Assets/Class/mobility.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/Follow.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/PhisicsFollow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Class/Bullet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Class/EnemyHealth.cs" />
       </list>
     </option>
   </component>
@@ -154,6 +158,7 @@
       <workItem from="1582154036662" duration="3255000" />
       <workItem from="1582325514813" duration="3094000" />
       <workItem from="1582587768115" duration="2309000" />
+      <workItem from="1582758847927" duration="2428000" />
     </task>
     <servers />
   </component>
