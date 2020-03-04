@@ -22,7 +22,7 @@ public class Bullet : MonoBehaviour
 
             if (health != null)
             {
-                health.TakeDameage(damage);
+                health.TakeDamage(damage);
             }
             Debug.Log("you hit me for "+damage+" damage i have "+ health +"left");
         }

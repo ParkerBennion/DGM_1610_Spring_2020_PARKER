@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-[RequireComponent(Rigidbody)]
+//[RequireComponent(Rigidbody)]
 
 public class PhisicsFollow : MonoBehaviour
 {

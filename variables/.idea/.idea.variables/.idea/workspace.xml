@@ -65,16 +65,16 @@
         <option value="$PROJECT_DIR$/Assets/Class/FpsTesterScripts/FpsAim.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/Velocity.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/BoolTrigger.cs" />
-        <option value="$PROJECT_DIR$/Assets/Class/SpawnManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/EnemyMove.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/GunMech.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/HelthPickUp.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/Look.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/mobility.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/Follow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Class/EnemyHealth.cs" />
+        <option value="$PROJECT_DIR$/Assets/Class/SpawnManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/PhisicsFollow.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/Bullet.cs" />
-        <option value="$PROJECT_DIR$/Assets/Class/EnemyHealth.cs" />
       </list>
     </option>
   </component>
@@ -159,6 +159,7 @@
       <workItem from="1582325514813" duration="3094000" />
       <workItem from="1582587768115" duration="2309000" />
       <workItem from="1582758847927" duration="2428000" />
+      <workItem from="1583190840700" duration="3799000" />
     </task>
     <servers />
   </component>

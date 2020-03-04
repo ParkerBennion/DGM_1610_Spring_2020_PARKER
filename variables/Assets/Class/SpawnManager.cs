@@ -6,12 +6,6 @@ public class SpawnManager : MonoBehaviour
 {
     public GameObject[] enemyPrefabs;
     public int enemyIndex;
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
     void Update()
     {
         int enemyIndex = Random.Range(0, enemyPrefabs.Length);
