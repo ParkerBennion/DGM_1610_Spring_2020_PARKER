@@ -12,6 +12,14 @@ using Object = UnityEngine.Object;
 public class mobility : MonoBehaviour
 {
    public float speed = 10f, verticalInput, horizontalInput, jumpsdis = 3f;
+   public Vector3 jumpVector;
+   public int jumper;
+
+   private void Start()
+   {
+       jumper = 1;
+   }
+
    void Update()
    {
        horizontalInput = Input.GetAxis("Horizontal");
@@ -23,18 +31,19 @@ public class mobility : MonoBehaviour
       //horizontal movement
       
       
-     if (Input.GetKey(KeyCode.Space) && (JumpManager.jumper = true))
+     if (Input.GetKeyDown(KeyCode.Space) && jumper => 1)
       {
-         transform.Translate(Vector3.up*jumpsdis*Time.deltaTime);
-         JumpManager.jumper = false;
+          GetComponent<Rigidbody>().AddForce(jumpVector,ForceMode.VelocityChange);
+         //transform.Translate(Vector3.up*jumpsdis*Time.deltaTime);
+         jumper = 0;
       }
-     // jump script
-
-    /* if (Input.GetKeyDown(KeyCode.Mouse0))
-     {
-         Instantiate(rubberBulletPrefab, shootCam.transform.position, rubberBulletPrefab.transform.rotation);
-     }
-     */
    }
-   
+
+   private void OnCollisionEnter(Collision other)
+   {
+       if (other.gameObject.CompareTag("Floor"))
+       {
+           jumper = 1;
+       }
+   }
 }

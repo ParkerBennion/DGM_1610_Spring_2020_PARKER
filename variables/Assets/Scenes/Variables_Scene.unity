@@ -1591,6 +1591,8 @@ MonoBehaviour:
   verticalInput: 0
   horizontalInput: 0
   jumpsdis: 3
+  jumpVector: {x: 0, y: 5, z: 0}
+  jumper: 0
 --- !u!135 &1682416080
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -1971,6 +1973,8 @@ MonoBehaviour:
   verticalInput: 0
   horizontalInput: 0
   jumpsdis: 3
+  jumpVector: {x: 0, y: 0, z: 0}
+  jumper: 0
 --- !u!54 &1842436865
 Rigidbody:
   m_ObjectHideFlags: 0
