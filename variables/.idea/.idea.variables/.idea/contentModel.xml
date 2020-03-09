@@ -23,6 +23,7 @@
           <e p="mobility.cs" t="Include" />
           <e p="PhisicsFollow.cs" t="Include" />
           <e p="Pickup.cs" t="Include" />
+          <e p="Recoil.cs" t="Include" />
           <e p="ScoreManager.cs" t="Include" />
           <e p="SelfAware.cs" t="Include" />
           <e p="SpawnManager.cs" t="Include" />

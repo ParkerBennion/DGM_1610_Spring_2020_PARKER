@@ -23,27 +23,30 @@ public class mobility : MonoBehaviour
    void Update()
    {
        horizontalInput = Input.GetAxis("Horizontal");
-    transform.Translate(Vector3.forward*speed*Time.deltaTime*horizontalInput);
-      //vertical movement
-      
-      verticalInput = Input.GetAxis("Vertical");
-      transform.Translate(Vector3.left*speed*Time.deltaTime*verticalInput);
-      //horizontal movement
-      
-      
-     if (Input.GetKeyDown(KeyCode.Space) && jumper => 1)
-      {
-          GetComponent<Rigidbody>().AddForce(jumpVector,ForceMode.VelocityChange);
-         //transform.Translate(Vector3.up*jumpsdis*Time.deltaTime);
-         jumper = 0;
-      }
-   }
+       transform.Translate(Vector3.forward * speed * Time.deltaTime * horizontalInput);
+       //vertical movement
 
-   private void OnCollisionEnter(Collision other)
-   {
-       if (other.gameObject.CompareTag("Floor"))
-       {
-           jumper = 1;
-       }
+       verticalInput = Input.GetAxis("Vertical");
+       transform.Translate(Vector3.left * speed * Time.deltaTime * verticalInput);
+       //horizontal movement
+
+
+       /*if (Input.GetKeyDown(KeyCode.Space) && jumper => 1)
+        {
+            GetComponent<Rigidbody>().AddForce(jumpVector,ForceMode.VelocityChange);
+           //transform.Translate(Vector3.up*jumpsdis*Time.deltaTime);
+           jumper = 0;
+        }
+     }
+  
+     private void OnCollisionEnter(Collision other)
+     {
+         if (other.gameObject.CompareTag("Floor"))
+         {
+             jumper = 1;
+         }
+         */
+     }
+     
+  
    }
-}

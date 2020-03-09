@@ -14,7 +14,7 @@ public class GunMech : MonoBehaviour
     void Update()
     {
         trajectory = transform.rotation; //records data in qaternion of the objects rotation and updates every frame.
-        if (Input.GetKey(KeyCode.Mouse0))
+        if (Input.GetKeyDown(KeyCode.Mouse0))
         {
             Instantiate(rubberBulletPrefab, mag.transform.position, trajectory); // on left click spawn (insert variable X) at (insert variable Y) with rotation matching "trajectory"
         }
