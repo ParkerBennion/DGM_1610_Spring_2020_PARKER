@@ -19,6 +19,7 @@
           <e p="GunMech.cs" t="Include" />
           <e p="HelthPickUp.cs" t="Include" />
           <e p="JumpManager.cs" t="Include" />
+          <e p="KrakenTestScript.cs" t="Include" />
           <e p="look.cs" t="Include" />
           <e p="mobility.cs" t="Include" />
           <e p="PhisicsFollow.cs" t="Include" />

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4103efa-d6ac-422c-842b-67e152785397" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.variables/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.variables/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.variables/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.variables/.idea/contentModel.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +31,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Class/Variables_03.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/ScoreManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/SpawnManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Class/KrakenTestScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/mobility.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/SelfAware.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/CharacterDataBank.cs" root0="FORCE_HIGHLIGHTING" />
@@ -67,6 +68,7 @@
         <option value="$PROJECT_DIR$/Assets/Class/mobility.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/GunMech.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/Recoil.cs" />
+        <option value="$PROJECT_DIR$/Assets/Class/KrakenTestScript.cs" />
       </list>
     </option>
   </component>
@@ -155,6 +157,7 @@
       <workItem from="1583363752576" duration="3085000" />
       <workItem from="1583724576721" duration="2405000" />
       <workItem from="1584297942605" duration="18000" />
+      <workItem from="1584298245273" duration="95000" />
     </task>
     <servers />
   </component>
