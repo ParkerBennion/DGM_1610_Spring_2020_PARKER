@@ -11,6 +11,7 @@
           <e p="CameraChange.cs" t="Include" />
           <e p="CharacterDataBank.cs" t="Include" />
           <e p="EnemyHealth.cs" t="Include" />
+          <e p="Enums.cs" t="Include" />
           <e p="FloorBool.cs" t="Include" />
           <e p="Follow.cs" t="Include" />
           <e p="FpsTesterScripts" t="Include">
@@ -28,6 +29,7 @@
           <e p="ScoreManager.cs" t="Include" />
           <e p="SelfAware.cs" t="Include" />
           <e p="SpawnManager.cs" t="Include" />
+          <e p="Switches.cs" t="Include" />
           <e p="Variables.cs" t="Include" />
           <e p="Variables_02.cs" t="Include" />
           <e p="Variables_03.cs" t="Include" />
