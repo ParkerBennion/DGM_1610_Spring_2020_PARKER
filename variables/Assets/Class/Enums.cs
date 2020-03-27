@@ -11,7 +11,7 @@ public class Enums : MonoBehaviour
     private Days currentDay;
         private void Start()
         {
-            currentDay = Days.sat;
+            //currentDay = Days.sat;
         }
 
         private void Update()

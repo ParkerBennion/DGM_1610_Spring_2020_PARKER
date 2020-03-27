@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c4103efa-d6ac-422c-842b-67e152785397" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.variables/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.variables/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.variables/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.variables/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.variables/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.variables/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Class/Bullet.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Class/Bullet.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Class/Enums.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Class/Enums.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +21,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Class/Pickup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/HelthPickUp.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/Variables.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Class/FireWall.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/Velocity.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/Variables_03.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/ScoreManager.cs" root0="FORCE_HIGHLIGHTING" />
@@ -74,8 +74,9 @@
         <option value="$PROJECT_DIR$/Assets/Class/Recoil.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/KrakenTestScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/Bullet.cs" />
-        <option value="$PROJECT_DIR$/Assets/Class/Enums.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/Switches.cs" />
+        <option value="$PROJECT_DIR$/Assets/Class/Enums.cs" />
+        <option value="$PROJECT_DIR$/Assets/Class/FireWall.cs" />
       </list>
     </option>
   </component>
@@ -170,6 +171,7 @@
       <workItem from="1584676361371" duration="628000" />
       <workItem from="1585001035881" duration="600000" />
       <workItem from="1585173077445" duration="3494000" />
+      <workItem from="1585326238829" duration="2356000" />
     </task>
     <servers />
   </component>

@@ -12,6 +12,7 @@
           <e p="CharacterDataBank.cs" t="Include" />
           <e p="EnemyHealth.cs" t="Include" />
           <e p="Enums.cs" t="Include" />
+          <e p="FireWall.cs" t="Include" />
           <e p="FloorBool.cs" t="Include" />
           <e p="Follow.cs" t="Include" />
           <e p="FpsTesterScripts" t="Include">
