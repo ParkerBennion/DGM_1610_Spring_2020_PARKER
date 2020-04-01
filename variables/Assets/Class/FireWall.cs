@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Experimental.PlayerLoop;
-public enum Difficulty{Easy, Medium, Hard}
+public enum Difficulty{Easy, Medium, Hard, Insane,}
 public class FireWall : MonoBehaviour
 {
     private int Timer = 3;
@@ -24,11 +24,15 @@ public class FireWall : MonoBehaviour
                 
             case Difficulty.Medium:
                 print("Normal Mode");
-                power = 20;
+                power = 15;
                 break;
             
             case Difficulty.Hard :
                 print("Hard Mode");
+                power = 20;
+                break;
+            
+            case Difficulty.Insane:
                 power = 30;
                 break;
             
@@ -45,6 +49,7 @@ public class FireWall : MonoBehaviour
         yield return new WaitForSeconds(Timer);
         Debug.Log("Begin!");
         transform.Translate(Vector3.forward*power*Time.deltaTime);
+        
         //only moves for a brief moment.
     }
 }
