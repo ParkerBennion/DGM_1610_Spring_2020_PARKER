@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4103efa-d6ac-422c-842b-67e152785397" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.variables/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.variables/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.variables/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.variables/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.variables/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.variables/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Class/FireWall.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Class/FireWall.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +29,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Class/Variables_02.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/Bullet.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/Enums.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Class/Wanderer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/FloorBool.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/GunMech.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/PhisicsFollow.cs" root0="FORCE_HIGHLIGHTING" />
@@ -78,6 +77,7 @@
         <option value="$PROJECT_DIR$/Assets/Class/Switches.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/Enums.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/FireWall.cs" />
+        <option value="$PROJECT_DIR$/Assets/Class/Wanderer.cs" />
       </list>
     </option>
   </component>
@@ -178,6 +178,7 @@
       <workItem from="1585687924640" duration="1292000" />
       <workItem from="1585693345668" duration="1935000" />
       <workItem from="1585771696179" duration="599000" />
+      <workItem from="1586210704066" duration="2660000" />
     </task>
     <servers />
   </component>
