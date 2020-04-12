@@ -4,6 +4,7 @@
     <list default="true" id="c4103efa-d6ac-422c-842b-67e152785397" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.variables/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.variables/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.variables/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.variables/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Class/Wanderer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Class/Wanderer.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,11 +16,13 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Class/CameraChange.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Class/TestingS0.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/FpsTesterScripts/FpsAim.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/Switches.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/Pickup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/HelthPickUp.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/Variables.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Class/SO.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/FireWall.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/Velocity.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/Variables_03.cs" root0="FORCE_HIGHLIGHTING" />
@@ -77,7 +80,9 @@
         <option value="$PROJECT_DIR$/Assets/Class/Switches.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/Enums.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/FireWall.cs" />
+        <option value="$PROJECT_DIR$/Assets/Class/SO.cs" />
         <option value="$PROJECT_DIR$/Assets/Class/Wanderer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Class/TestingS0.cs" />
       </list>
     </option>
   </component>
@@ -179,6 +184,7 @@
       <workItem from="1585693345668" duration="1935000" />
       <workItem from="1585771696179" duration="599000" />
       <workItem from="1586210704066" duration="2660000" />
+      <workItem from="1586383170511" duration="3255000" />
     </task>
     <servers />
   </component>

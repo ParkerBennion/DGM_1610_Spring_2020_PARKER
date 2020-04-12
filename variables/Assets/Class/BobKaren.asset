@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f00b2fd55c879b438957cb7a78f7618, type: 3}
+  m_Name: BobKaren
+  m_EditorClassIdentifier: 
+  nametag: SuperMan
+  description: A little red ball with asperations
+  model: {fileID: 3989694116270060499, guid: d8d63546f7b66654293cfef9cbb2bfb9, type: 3}
+  color: {r: 1, g: 0, b: 0, a: 1}

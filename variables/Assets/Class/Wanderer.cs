@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEngine.AI;
 using Random = System.Random;
 
-public class Wanderer : MonoBehaviour
+/*public class Wanderer : MonoBehaviour
 {
    public float wanderRadius;
    public float wanderTimer;
@@ -39,4 +39,4 @@ public class Wanderer : MonoBehaviour
       NavMesh.SamplePosition(randDirection, out navHit, dist, layermask);
       return navHit.position;
    }
-}
+}*/
