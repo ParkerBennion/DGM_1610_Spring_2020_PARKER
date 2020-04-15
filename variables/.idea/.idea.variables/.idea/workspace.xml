@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4103efa-d6ac-422c-842b-67e152785397" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.variables/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.variables/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.variables/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.variables/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Class/Wanderer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Class/Wanderer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Factory Dash/.idea/.idea.Factory Dash/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Factory Dash/.idea/.idea.Factory Dash/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Factory Dash/.idea/.idea.Factory Dash/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Factory Dash/.idea/.idea.Factory Dash/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Factory Dash/.idea/.idea.Factory Dash/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Factory Dash/.idea/.idea.Factory Dash/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,6 +185,7 @@
       <workItem from="1585771696179" duration="599000" />
       <workItem from="1586210704066" duration="2660000" />
       <workItem from="1586383170511" duration="3255000" />
+      <workItem from="1586918995379" duration="604000" />
     </task>
     <servers />
   </component>

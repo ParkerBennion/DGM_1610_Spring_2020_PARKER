@@ -8,6 +8,7 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="Admin.cs" t="Include" />
+          <e p="Adminium.cs" t="Include" />
           <e p="BulletDamage.cs" t="Include" />
           <e p="EnemyHealth.cs" t="Include" />
           <e p="MenuManager.cs" t="Include" />
