@@ -86,6 +86,7 @@
           <e p="Look.cs" t="Include" />
           <e p="MenuManager.cs" t="Include" />
           <e p="Move.cs" t="Include" />
+          <e p="Wanderer.cs" t="Include" />
         </e>
       </e>
       <e p="Factory Dash.sln" t="IncludeFlat" />
