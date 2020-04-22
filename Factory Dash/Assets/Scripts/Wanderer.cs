@@ -5,7 +5,7 @@ using UnityEditor.Experimental.GraphView;
 using UnityEngine;
 using UnityEngine.AI;
 
-public class Wanderer : MonoBehaviour
+/*public class Wanderer : MonoBehaviour
 {
     public float wanderRadius, wanderTimer, alertDist, attackDist;
     private float timer, distance;
@@ -57,4 +57,4 @@ public class Wanderer : MonoBehaviour
             
         }
     }
-}
+}*/

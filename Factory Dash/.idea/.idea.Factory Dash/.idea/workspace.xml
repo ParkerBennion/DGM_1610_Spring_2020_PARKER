@@ -3,8 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="f38d6903-f03f-465a-8d68-645500f180d4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Factory Dash/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Factory Dash/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Factory Dash/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Factory Dash/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Factory Dash/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Factory Dash/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Adminium.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Adminium.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Look.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Look.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Move.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Move.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Wanderer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Wanderer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../variables/.idea/.idea.variables/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../variables/.idea/.idea.variables/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../variables/Assets/Class/FireWall.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../variables/Assets/Class/FireWall.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,11 +22,14 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Look.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Admin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Pusher.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BulletDamage.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Move.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Adminium.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyHealth.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Wanderer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WallSpeed.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BasicTrigger.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -29,10 +37,13 @@
         <option value="$PROJECT_DIR$/Assets/MenuManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BulletDamage.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/EnemyHealth.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Move.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Look.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Adminium.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Wanderer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pusher.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WallSpeed.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Look.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Move.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Adminium.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BasicTrigger.cs" />
       </list>
     </option>
   </component>
@@ -91,6 +102,7 @@
       <workItem from="1586956139063" duration="3527000" />
       <workItem from="1587083355748" duration="600000" />
       <workItem from="1587420939136" duration="2985000" />
+      <workItem from="1587490089240" duration="12765000" />
     </task>
     <servers />
   </component>

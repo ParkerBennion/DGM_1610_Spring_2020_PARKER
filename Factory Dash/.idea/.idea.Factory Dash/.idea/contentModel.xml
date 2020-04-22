@@ -81,11 +81,14 @@
         <e p="Scripts" t="Include">
           <e p="Admin.cs" t="Include" />
           <e p="Adminium.cs" t="Include" />
+          <e p="BasicTrigger.cs" t="Include" />
           <e p="BulletDamage.cs" t="Include" />
           <e p="EnemyHealth.cs" t="Include" />
           <e p="Look.cs" t="Include" />
           <e p="MenuManager.cs" t="Include" />
           <e p="Move.cs" t="Include" />
+          <e p="Pusher.cs" t="Include" />
+          <e p="WallSpeed.cs" t="Include" />
           <e p="Wanderer.cs" t="Include" />
         </e>
       </e>

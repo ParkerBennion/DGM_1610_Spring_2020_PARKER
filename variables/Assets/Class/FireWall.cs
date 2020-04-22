@@ -1,55 +1,64 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿using System;
+using System.Collections;
 using UnityEngine;
-using UnityEngine.Experimental.PlayerLoop;
-public enum Difficulty{Easy, Medium, Hard, Insane,}
+
 public class FireWall : MonoBehaviour
 {
     private int Timer = 3;
-    public int Judge = 0;
-
+    public int response;
     private int power;
-    //private int Difficulty = 1;
-    
-    
-        void Start()
+
+// this script may be better served going through the game manager to recieve the variables and the changing 
+// of menus only refering to this script as the menue itself where the changing of modes is needed.
+    void Start()
+    {
+        response = 4; //need way to change switch
+        
+        bringTheFire();
+        
+    }
+
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.P))
         {
-            switch (Difficulty.Easy) //need way to change switch
-            
-        {
-            case Difficulty.Easy:
-                print("Easy Mode");
-                power = 10;
-                break;
-                
-            case Difficulty.Medium:
-                print("Normal Mode");
-                power = 15;
-                break;
-            
-            case Difficulty.Hard :
-                print("Hard Mode");
-                power = 20;
-                break;
-            
-            case Difficulty.Insane:
-                power = 30;
-                break;
-            
-            default:
-                print("test game");
-                power = 0;
-                break;
+            //opens pause menu;
+            bringTheFire();
         }
-        StartCoroutine(bringTheFire());
+        
     }
 
     IEnumerator bringTheFire()
     {
-        yield return new WaitForSeconds(Timer);
-        Debug.Log("Begin!");
-        transform.Translate(Vector3.forward*power*Time.deltaTime);
-        
-        //only moves for a brief moment.
+        Debug.Log("Select Mode" );//add graphic on hud for modes
+        int  = Convert.ToInt32(Console.ReadLine());
+        if ( == )
+        switch (FireWall.input)
+        {
+            case 1:
+                print("PLAY");
+                power = 10;
+                break;
+                
+            case 2:
+                print("TEST");
+                power = 0;
+                break;
+            
+            case 42:
+                print("WIN");
+                power = 0;
+                break;
+            
+            case 4:
+                print("Pause");
+                power = 0;
+                break;
+            
+            default:
+                print("Game Over");
+                power = 0;
+                break;
+        }
     }
 }
