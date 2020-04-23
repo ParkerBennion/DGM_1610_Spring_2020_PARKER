@@ -5,8 +5,8 @@ using UnityEngine;
 
 public class BasicTrigger : MonoBehaviour
 { 
-    private void OnTriggerEnter(Collider other)
+    void OnTriggerEnter(Collider other)
     {
-        Adminium.floor += 1;
+        Debug.Log("Your in");
     }
 }
