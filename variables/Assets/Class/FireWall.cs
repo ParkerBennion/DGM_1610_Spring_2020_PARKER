@@ -2,7 +2,7 @@
 using System.Collections;
 using UnityEngine;
 
-public class FireWall : MonoBehaviour
+/*public class FireWall : MonoBehaviour
 {
     private int Timer = 3;
     public int response;
@@ -61,4 +61,4 @@ public class FireWall : MonoBehaviour
                 break;
         }
     }
-}
+}*/

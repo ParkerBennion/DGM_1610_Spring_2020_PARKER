@@ -33,6 +33,7 @@
           <e p="SpawnManager.cs" t="Include" />
           <e p="Switches.cs" t="Include" />
           <e p="TestingS0.cs" t="Include" />
+          <e p="TestTrigger.cs" t="Include" />
           <e p="Variables.cs" t="Include" />
           <e p="Variables_02.cs" t="Include" />
           <e p="Variables_03.cs" t="Include" />

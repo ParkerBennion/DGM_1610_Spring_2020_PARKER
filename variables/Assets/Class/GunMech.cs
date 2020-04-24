@@ -18,6 +18,6 @@ public class GunMech : MonoBehaviour
         {
             Instantiate(rubberBulletPrefab, mag.transform.position, trajectory); // on left click spawn (insert variable X) at (insert variable Y) with rotation matching "trajectory"
         }
-        Debug.Log(trajectory); //display current trajectory
+        //Debug.Log(trajectory); //display current trajectory
     }
 }
