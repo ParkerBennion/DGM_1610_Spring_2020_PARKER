@@ -5,11 +5,10 @@ using UnityEditor.Experimental.GraphView;
 using UnityEditor.UIElements;
 using UnityEngine;
 
-public class Move : MonoBehaviour
+public class Move : Admin
 {
     public float speed = 10f, verticalInput, horizontalInput;
-    public int ground=5;
-    public int height=100000;
+    public int height=1;
     private Rigidbody rb;
     private TagField Ground;
 
@@ -25,20 +24,20 @@ public class Move : MonoBehaviour
 
         verticalInput = Input.GetAxis("Vertical");
         transform.Translate(Vector3.forward* speed * Time.deltaTime * verticalInput);
-        if (Input.GetKeyDown(KeyCode.Space)&& ground >= 1)
+        if (Input.GetKeyDown(KeyCode.Space)&& playerJump >= 1)
         {
             rb.velocity = transform.up * height * Time.deltaTime;
             //transform.Translate(Vector3.up*height*Time.deltaTime);
-            ground -= 1;
-            Debug.Log(ground);
+            playerJump -= 1;
+            Debug.Log(playerJump + " A jump was used");
         }
+        
     }
-    private void OnTriggerEnter(Collider other)
+   /* void OnTriggerEnter(Collider other)
     {
-        if (gameObject.CompareTag("Ground")&& ground < 1)
+        if (CompareTag("Ground")&& playerJump < 1)
         {
-            ground += 1;
-            Debug.Log(ground);
+            playerJump += 1;
         }
-    }
+    }*/
 }

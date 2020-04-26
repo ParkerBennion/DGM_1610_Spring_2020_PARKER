@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f38d6903-f03f-465a-8d68-645500f180d4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Factory Dash/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Factory Dash/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Factory Dash/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Factory Dash/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../variables/.idea/.idea.variables/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../variables/.idea/.idea.variables/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../variables/.idea/.idea.variables/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../variables/.idea/.idea.variables/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../variables/Assets/Class/FireWall.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../variables/Assets/Class/FireWall.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../variables/Assets/Class/GunMech.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../variables/Assets/Class/GunMech.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../variables/Assets/Scenes/Variables_Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../variables/Assets/Scenes/Variables_Scene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Admin.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Admin.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BasicTrigger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BasicTrigger.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Move.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Move.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,9 +37,10 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Pusher.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/WallSpeed.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Look.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Move.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Adminium.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BasicTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Admin.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Move.cs" />
       </list>
     </option>
   </component>
@@ -104,6 +102,8 @@
       <workItem from="1587490089240" duration="12765000" />
       <workItem from="1587595215937" duration="3102000" />
       <workItem from="1587682938460" duration="1593000" />
+      <workItem from="1587760343038" duration="618000" />
+      <workItem from="1587864202259" duration="4892000" />
     </task>
     <servers />
   </component>

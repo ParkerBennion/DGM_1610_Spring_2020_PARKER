@@ -3,10 +3,11 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class BasicTrigger : MonoBehaviour
+public class BasicTrigger : Admin
 { 
     void OnTriggerEnter(Collider other)
     {
-        Debug.Log("Your in");
+        playerJump += 1;
+        Debug.Log("Your in. PlayerJump = "+ playerJump);
     }
 }
