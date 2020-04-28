@@ -7,7 +7,11 @@ public class BasicTrigger : Admin
 { 
     void OnTriggerEnter(Collider other)
     {
-        playerJump += 1;
-        Debug.Log("Your in. PlayerJump = "+ playerJump);
+        if (playerJump < 1)
+        {
+            playerJump += 1;
+            Debug.Log("Your in. PlayerJump = "+ playerJump); 
+        }
+        
     }
 }

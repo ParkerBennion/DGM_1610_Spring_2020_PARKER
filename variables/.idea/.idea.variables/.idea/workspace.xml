@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4103efa-d6ac-422c-842b-67e152785397" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Factory Dash/.idea/.idea.Factory Dash/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Factory Dash/.idea/.idea.Factory Dash/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Factory Dash/.idea/.idea.Factory Dash/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Factory Dash/.idea/.idea.Factory Dash/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Factory Dash/.idea/.idea.Factory Dash/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Factory Dash/.idea/.idea.Factory Dash/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Factory Dash/Assets/Scenes/FactoryDash.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../Factory Dash/Assets/Scenes/FactoryDash.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.variables/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.variables/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Factory Dash/Assets/Scripts/Admin.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Factory Dash/Assets/Scripts/Admin.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Factory Dash/Assets/Scripts/BasicTrigger.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Factory Dash/Assets/Scripts/BasicTrigger.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Factory Dash/Assets/Scripts/Move.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Factory Dash/Assets/Scripts/Move.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Factory Dash/Assets/Scripts/WallSpeed.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Factory Dash/Assets/Scripts/WallSpeed.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.variables/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.variables/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Class/FireWall.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Class/FireWall.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Class/GunMech.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Class/GunMech.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Variables_Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Variables_Scene.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +39,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Class/Variables_02.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/Bullet.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/Enums.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Factory Dash/Assets/Scripts/Admin.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/Wanderer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/FloorBool.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class/GunMech.cs" root0="FORCE_HIGHLIGHTING" />
@@ -197,6 +199,7 @@
       <workItem from="1586955654384" duration="4316000" />
       <workItem from="1587491532188" duration="8706000" />
       <workItem from="1587683239908" duration="1183000" />
+      <workItem from="1588034542601" duration="2144000" />
     </task>
     <servers />
   </component>

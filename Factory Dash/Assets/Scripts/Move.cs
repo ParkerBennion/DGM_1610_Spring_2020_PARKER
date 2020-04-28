@@ -4,17 +4,21 @@ using System.Collections.Generic;
 using UnityEditor.Experimental.GraphView;
 using UnityEditor.UIElements;
 using UnityEngine;
+using UnityEngine.SocialPlatforms.Impl;
 
 public class Move : Admin
 {
-    public float speed = 10f, verticalInput, horizontalInput;
-    public int height=1;
+     
+    public float verticalInput, horizontalInput, score;
+    public int height=30;
     private Rigidbody rb;
     private TagField Ground;
+    Rigidbody Char;
 
     private void Awake()
     {
         rb = GetComponent<Rigidbody>();
+        rb.constraints = RigidbodyConstraints.FreezeRotation;
     }
 
     void Update()
@@ -31,13 +35,6 @@ public class Move : Admin
             playerJump -= 1;
             Debug.Log(playerJump + " A jump was used");
         }
-        
+        //player.transform.position.z = score; to display score this is needed.
     }
-   /* void OnTriggerEnter(Collider other)
-    {
-        if (CompareTag("Ground")&& playerJump < 1)
-        {
-            playerJump += 1;
-        }
-    }*/
 }
